@@ -1,0 +1,8 @@
+@media (max-width: 1024px) {
+    body {
+        background-color: rgb(25, 238, 25);
+    }
+    .tablet {
+        font-size: 3.4rem;
+    }
+}
